@@ -67,7 +67,7 @@ struct gandhiPage: View{
         }
     }
 }
-struct gandhi_my_nigga_Previews: PreviewProvider {
+struct gandhiJi_Previews: PreviewProvider {
     static var previews: some View {
         gandhiPage()
     }
